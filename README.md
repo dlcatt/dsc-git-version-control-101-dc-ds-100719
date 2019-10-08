@@ -5,6 +5,8 @@
 
 > “The past is never where you think you left it.” — [Katherine Anne Porter](http://en.wikipedia.org/wiki/Katherine_Anne_Porter)
 
+THIS IS THE START OF ADDING SOMETHING TO MY FORKED COPY !!
+
 Version Control is the process of storing multiple versions of a single project, allowing each version to be recalled at a later date.
 
 There are a lot of different ways to do version control. You could save a new file every time you make a change, timestamp that file, and place all of those files into a timestamped folder. You could track all of your changes in a spreadsheet with copious notes. Or you could use dedicated version control software. Guess which method programmers use?
